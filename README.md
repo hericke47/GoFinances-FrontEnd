@@ -11,6 +11,10 @@
 
 Aplicação para fazer a entrada e saida de itens, com suas respectivas categorias, podendo importar esses itens com um arquivo.csv :smile:
 
+## Importação
+
+<img src="https://cdn.discordapp.com/attachments/572154355256393738/740781015743856780/unknown.png" alt="Github Explore"/>
+
 ## Tecnologias utilizadas :memo:
 
 - [ReactJS](https://reactjs.org/)
